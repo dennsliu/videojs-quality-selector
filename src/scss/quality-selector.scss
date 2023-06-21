@@ -8,11 +8,11 @@
    .vjs-icon-placeholder {
       // From video.js font: https://github.com/videojs/font
       /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
-      font-family: 'VideoJS';
+      font-family: "VideoJS";
       font-weight: normal;
       font-style: normal;
       &::before {
-         content: '\f110';
+         content: "";
       }
    }
 }
